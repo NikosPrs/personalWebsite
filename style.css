@@ -1,7 +1,7 @@
 body {
-    background-image: url("matrix.jpg");
+  /* background-image: url("matrix.jpg"); */
     background-size: cover;
-    background-color: #ccccccc5;
+    background-color: white;
 }
 /* Add a black background color to the top navigation */
 .topnav {
